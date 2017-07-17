@@ -10,9 +10,9 @@
 ;==================================================================
 ;             M e s h    P a r a m e t e r s 
 ;==================================================================
-240,60            number of _elements_ in X and Z directions: (nx-1),(nz-1)
+400,60            number of _elements_ in X and Z directions: (nx-1),(nz-1)
 0.e+3,0.           x0,z0 begin.coord
-60.e+3,-15.e+3    rxbo,rzbo (size of the region, rxbo > 0, rzbo < 0)
+100.e+3,-15.e+3    rxbo,rzbo (size of the region, rxbo > 0, rzbo < 0)
 ;
 0, points.xy    ircoord, coordfile: read init. coordinates from the file
 ;
@@ -122,9 +122,9 @@ proftemp.dat   temperature profile dat.file
 ;
 ;irheol,_,den, alfa,  beta,    n,       A,       E,    Lame:rl, Lame:rm,pls1,pls2,fric1,fric2, coh1, coh2,dilat1,dilat2,cond,    cp,     Ts,     Tl,     Tk, fk
 ;(1) basalt, not used
-12,1., 3000., 3.0e-5, 0.0e-11, 3.05, 1.73e5, 4.42e+5, 3.0e+10, 3.0e+10, 0.0, 0.1, 30.0,  30.0,2.e+7,4.e+6,   0.0,   0.0, 2.5, 1000., 1000., 1300., 16000., 1.
+12,1., 3000., 3.0e-5, 0.0e-11, 3.05, 1.25e-1, 2.76e+5, 3.0e+10, 3.0e+10, 0.0, 0.1, 30.0,  30.0,2.e+7,4.e+6,   0.0,   0.0, 2.5, 1000., 1000., 1300., 16000., 1.
 ;(2) continental crust, same as (6)
-12,1., 3000., 3.0e-5, 0.0e-11, 3.05, 1.73e5, 4.42e+5, 3.0e+10, 3.0e+10, 0.0, 0.1, 30.0,  30.0,2.e+7,4.e+6,   0.0,   0.0, 2.5, 1000., 1000., 1300., 16000., 1.
+12,1., 3000., 3.0e-5, 0.0e-11, 3.05, 1.25e-1, 2.76e+5, 3.0e+10, 3.0e+10, 0.0, 0.1, 30.0,  30.0,2.e+7,4.e+6,   0.0,   0.0, 2.5, 1000., 1000., 1300., 16000., 1.
 ;(3) basalt (dunite), same as (7)            
 12,1., 3000., 3.0e-5, 0.0e-11, 3.05, 1.73e5, 4.42e+5, 3.0e+10, 3.0e+10, 0.0, 0.1, 30.0,  30.0,2.e+7,4.e+6,   0.0,   0.0, 2.5, 1000., 1000., 1300., 16000., 1.
 ;(4) olivine, same as (8)
@@ -189,7 +189,7 @@ phasedat.inp   ; file with distribution of phase on the 2D grid (phasedat)
 1.0e+18,                     1.e+27,         0,         500.
 ;
 ;igeotherm  g_x0,    g_y0c   g_amplitude  g_width
-1,         30.e+3,  -15.e+3,  9.5e+3,       130.e+3
+1,         50.e+3,  -15.e+3,  9.5e+3,       130.e+3
 ;
 ;Magma Injection: 
 ; ny_inject (0,-no,1-left,2-center), nelem_inject, rate_inject(m/s)
@@ -258,4 +258,4 @@ phasedat.inp   ; file with distribution of phase on the 2D grid (phasedat)
 ; dike heat injection (Tian2017)
 ; left#,right#,top#,bottom#,latentheat,set to 1
 ; iinj1, iinj2, jinj1, jinj2, xlatheat, ratfac
-120,120,1,41,5.e+5,1,115,125,12,23;,4,-7.e3,600
+200,201,1,41,5.e+5,1,195,205,12,23;,4,-7.e3,600
