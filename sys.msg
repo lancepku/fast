@@ -249,14 +249,16 @@
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         201          41  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         197          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          26  Might need more frequent remeshing?                                                                                                                            
@@ -269,8 +271,6 @@
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          27  Might need more frequent remeshing?                                                                                                                            
@@ -285,619 +285,619 @@
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         197          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         201          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         201          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         201          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         201          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         201          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         197          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         197          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         197          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         197          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         197          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         201          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         201          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         201          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         201          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         201          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         201          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         201          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         201          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         201          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         201          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         201          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          40  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          40  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          40  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          40  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          40  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          40  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          39  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          39  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          40  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         200          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         200          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         202          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         200          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          39  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         202          40  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         200          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         200          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         200          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         203          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         200          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         202          40  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         200          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         203          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         203          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         204          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         204          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
-  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         200          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       18000 Time[Ma]:   1.4389846314722099E-002
+  Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
   Found at (i,j)         200          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       18000 Time[Ma]:   1.4389846314722099E-002
@@ -1393,21 +1393,13 @@
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         202          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         202          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       25200 Time[Ma]:   2.0146104632739716E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
@@ -1422,6 +1414,18 @@
   Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       25200 Time[Ma]:   2.0146104632739716E-002
+  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       25200 Time[Ma]:   2.0146104632739716E-002
+  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       25200 Time[Ma]:   2.0146104632739716E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       25200 Time[Ma]:   2.0146104632739716E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       25200 Time[Ma]:   2.0146104632739716E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       25200 Time[Ma]:   2.0146104632739716E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
@@ -1455,13 +1459,9 @@
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
-  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         200          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       25200 Time[Ma]:   2.0146104632739716E-002
-  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
   Found at (i,j)         200          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       25200 Time[Ma]:   2.0146104632739716E-002
@@ -2401,135 +2401,135 @@
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         202          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         202          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         202          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         203          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         203          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         203          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         203          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         203          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
@@ -2561,9 +2561,9 @@
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
-  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       39800 Time[Ma]:   3.1818517333164327E-002
+  Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
   Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       39800 Time[Ma]:   3.1818517333164327E-002
@@ -3107,31 +3107,31 @@
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
   Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
+  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       46000 Time[Ma]:   3.6775295329235055E-002
   Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
-  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       46000 Time[Ma]:   3.6775295329235055E-002
+  Found at (i,j)         203          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
   Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
   Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
+  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       46000 Time[Ma]:   3.6775295329235055E-002
   Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
   Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
-  Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       46000 Time[Ma]:   3.6775295329235055E-002
   Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
   Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
-  Found at (i,j)         203          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       46000 Time[Ma]:   3.6775295329235055E-002
   Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
   Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       46000 Time[Ma]:   3.6775295329235055E-002
-  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
   Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       46000 Time[Ma]:   3.6775295329235055E-002
@@ -3771,8 +3771,6 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          20  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          21  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         196          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          21  Might need more frequent remeshing?                                                                                                                            
@@ -3783,13 +3781,15 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          21  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          21  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -3797,27 +3797,27 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         196          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         196          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -3825,9 +3825,9 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         196          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -3849,10 +3849,10 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         202          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         196          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         202          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         196          33  Might need more frequent remeshing?                                                                                                                            
@@ -3872,10 +3872,10 @@
   Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         202          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         202          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         196          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -3883,19 +3883,19 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         202          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         196          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         196          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         202          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         196          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -3903,9 +3903,9 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         202          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         196          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -3951,37 +3951,27 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         196          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         202          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -3991,9 +3981,17 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         202          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4001,6 +3999,12 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
@@ -4011,9 +4015,13 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4030,18 +4038,6 @@
   Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4053,6 +4049,8 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
@@ -4063,7 +4061,7 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          36  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4077,7 +4075,7 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          37  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4085,7 +4083,7 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          38  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4103,7 +4101,7 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          39  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4111,15 +4109,19 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          40  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          40  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4128,8 +4130,6 @@
   Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          42  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4161,17 +4161,17 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          41  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         205          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          21  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          42  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          42  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4213,31 +4213,33 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          22  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          22  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4245,28 +4247,24 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          27  Might need more frequent remeshing?                                                                                                                            
@@ -4293,9 +4291,15 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4303,19 +4307,13 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4331,8 +4329,6 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
@@ -4343,13 +4339,15 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4364,6 +4362,10 @@
   Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4371,33 +4373,33 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4409,29 +4411,23 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         195          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         195          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         195          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4447,151 +4443,143 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         195          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         195          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         195          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         195          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         195          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         195          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         195          36  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         196          37  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         195          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         195          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         195          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          41  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          42  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         196          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         195          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         205          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         195          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         196          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         196          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          37  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         195          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          37  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         195          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4599,49 +4587,57 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         196          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         195          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         196          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         195          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         195          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         197          41  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         196          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          41  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         196          37  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         197          41  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          42  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4653,11 +4649,11 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         197          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4679,27 +4675,37 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4709,19 +4715,9 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4739,13 +4735,13 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4759,11 +4755,11 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4771,27 +4767,27 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4803,23 +4799,25 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4827,37 +4825,43 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         204          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         204          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4865,27 +4869,19 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4899,11 +4895,11 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4911,11 +4907,11 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4925,11 +4921,11 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         205          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4945,20 +4941,20 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
@@ -4969,15 +4965,15 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4986,6 +4982,14 @@
   Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -4997,17 +5001,9 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -5021,6 +5017,12 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
@@ -5029,9 +5031,11 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          39  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -5039,11 +5043,11 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          39  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          39  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -5051,35 +5055,37 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          40  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          41  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          40  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          18  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          41  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          19  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         198          19  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          18  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          19  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         206          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          19  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          19  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         206          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          20  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          19  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          20  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -5089,13 +5095,13 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          20  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          20  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          19  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          20  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -5103,21 +5109,21 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          20  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          20  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          21  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          20  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          20  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -5133,13 +5139,13 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          21  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          21  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          22  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -5153,12 +5159,6 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         206          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          34  Might need more frequent remeshing?                                                                                                                            
@@ -5166,50 +5166,56 @@
   Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         206          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         205          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         207          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         207          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       62200 Time[Ma]:   4.9726876544774694E-002
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -5217,17 +5223,11 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         207          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         206          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       62200 Time[Ma]:   4.9726876544774694E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
@@ -6705,21 +6705,23 @@
  Loops:       62200 Time[Ma]:   4.9726876544774694E-002
   Found at (i,j)         203          44  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -6731,7 +6733,7 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          38  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -6741,21 +6743,19 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          39  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          40  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          42  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -6789,17 +6789,13 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          20  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          20  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          21  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          20  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          21  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          20  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -6809,9 +6805,19 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          21  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -6820,44 +6826,34 @@
   Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          37  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -6865,20 +6861,24 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          25  Might need more frequent remeshing?                                                                                                                            
@@ -6920,14 +6920,12 @@
   Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         196          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -6947,7 +6945,7 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -6962,30 +6960,32 @@
   Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -7005,31 +7005,33 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -7037,7 +7039,7 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -7045,7 +7047,7 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -7053,13 +7055,13 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -7067,10 +7069,6 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          31  Might need more frequent remeshing?                                                                                                                            
@@ -7078,10 +7076,14 @@
   Found at (i,j)         204          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          38  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -7089,21 +7091,19 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          40  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          41  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          41  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          41  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -7127,47 +7127,47 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          23  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          37  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          39  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          40  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         205          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          39  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          40  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          40  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          41  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -7197,61 +7197,77 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          21  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         203          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          21  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          21  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -7259,43 +7275,29 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -7304,28 +7306,40 @@
   Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
@@ -7333,453 +7347,439 @@
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         205          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         205          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         205          39  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         204          40  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         205          42  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         195          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         195          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         195          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         195          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         195          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         197          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         195          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         195          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         195          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         195          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         195          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         195          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         196          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          35  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          39  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          39  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          40  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          37  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         197          20  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          38  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          19  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          39  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         195          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          28  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         197          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         196          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         205          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          37  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         195          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         195          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         195          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          39  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         195          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          39  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          40  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         197          20  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         204          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         195          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          19  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         195          37  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         196          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          20  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         199          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          29  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         204          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          21  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          22  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          22  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          35  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          35  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         205          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          22  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          22  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         205          37  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          23  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          38  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          39  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         206          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         206          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         206          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         206          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          24  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          40  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         207          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          29  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         206          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          25  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         206          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         207          32  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          26  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         206          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          32  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         206          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          34  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         207          36  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         206          36  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         205          33  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          34  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         206          35  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         205          37  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         206          40  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         207          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         206          30  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         207          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          27  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          28  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          29  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
- Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         198          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         206          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          30  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         206          34  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
-  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
+  Found at (i,j)         207          36  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         206          36  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         199          31  Might need more frequent remeshing?                                                                                                                            
+ Loops:       72600 Time[Ma]:   5.8041471893022369E-002
+  Found at (i,j)         207          32  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
   Found at (i,j)         198          31  Might need more frequent remeshing?                                                                                                                            
  Loops:       72600 Time[Ma]:   5.8041471893022369E-002
