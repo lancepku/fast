@@ -213,7 +213,7 @@ phasedat.inp   ; file with distribution of phase on the 2D grid (phasedat)
 ;=================================================================
 ; Inertial Mass Scaling (idt_scale):
 1         0-no scale for DYNAMICS,1-scale for STATICS, 2-Automatic scaling
-2.523e7,5.e-5  dt_scale (used if scale =1), tolerance=Vbc/Vsound (if scale=2)
+1.523e7,5.e-5  dt_scale (used if scale =1), tolerance=Vbc/Vsound (if scale=2)
 1,5   Buoyancy + Reynolds (no-0,yes-1), Reynolds number
 10        frequency of re-evaluation of real masses
 10       frequency of re-evaluation of inertial masses
@@ -254,7 +254,7 @@ phasedat.inp   ; file with distribution of phase on the 2D grid (phasedat)
 ; saving the last step only (1) or each nsave step (0)
 1
 ;read(4,*)if_hydro, nusselt, xmaxdepth,xmaxt
-0,4,-6.e3,600,2.e-9 
+0,4,-7.e3,600,2.e-9 
 ; dike heat injection (Tian2017)
 ; left#,right#,top#,bottom#,latentheat,set to 1
 ; iinj1, iinj2, jinj1, jinj2, xlatheat, ratfac
